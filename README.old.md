@@ -1,3 +1,3 @@
-# Authenticate React - Redux Toolkit
+# MyJournalApp
 
-Authentication application using Redux  Toolkit and Firebase
+Application using React,Material UI,  Redux  Toolkit , Firebase
